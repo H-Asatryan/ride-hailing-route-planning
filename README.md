@@ -9,6 +9,7 @@ Project description:
 - Dynamic optimization by means of reinforcement learning
 
 Team:
+Prof. Dr. Hanno Gottschalk, Dr. Michael Striglmayr
 
 Project partner:
 
