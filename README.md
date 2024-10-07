@@ -42,7 +42,7 @@ The analysis of demand patterns and potential extension suggestions for the ride
 
 - Asatryan H., Gaul D., Gottschalk H., Klamroth K., Stiglmayr M. *Ridepooling and public bus services: A comparative case-study.* – Preprint (2023), [arXiv:2302.01709](https://arxiv.org/abs/2302.01709)
 
-* **Links**
+**Links**
 
 * [Bergisch Smart Mobility](https://www.bergischsmartmobility.de/)
 * [Hol mich! App](https://play.google.com/store/apps/details?id=wuppertal.holmich&hl=en)
