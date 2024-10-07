@@ -1,4 +1,5 @@
 theme: minima
 footer: false
-title:
-description:
+title: null
+description: ""
+name: ""
