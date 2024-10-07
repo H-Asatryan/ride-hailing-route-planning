@@ -1,4 +1,4 @@
-**<font size=+2><center>Comparative Analysis of Bus and Ridepooling Services in Wuppertal</center></font>**
+**<center>Comparative Analysis of Bus and Ridepooling Services in Wuppertal</center>**
 
 *The purpose of this repository is to partially archive the program code related to the project ''Dynamical Route Planning for On-Demand Ride-Hailing Services'' (subproject of Bergisch Smart Mobility, 2019-2022).*
 
